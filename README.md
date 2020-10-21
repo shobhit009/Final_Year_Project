@@ -6,6 +6,6 @@ This model uses random forest algorithm to classify whether an individual has ri
 
 
 # Steps to run the model
- Step 1 : Git clone the repository
+ Step 1 : Git clone the repository 
  Step 2: Run Source.py from console
  Step 3 : Enter relevant information
